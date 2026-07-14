@@ -6,6 +6,6 @@ namespace Magextensionsio\PolyShellProtection\Logger;
 
 use Monolog\Logger as MonologLogger;
 
-final class Logger extends MonologLogger
+class Logger extends MonologLogger
 {
 }
