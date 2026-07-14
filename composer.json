@@ -1,5 +1,5 @@
 {
-    "name": "magextensionsio/module-polyshell-protection",
+    "name": "magextensions/module-polyshell-protection",
     "description": "Magento 2 mitigation that disables product custom-option file uploads to block the PolyShell upload vector.",
     "type": "magento2-module",
     "license": "MIT",
@@ -29,7 +29,7 @@
         }
     },
     "support": {
-        "issues": "https://github.com/mextensions/PolyShellProtection/issues",
-        "source": "https://github.com/mextensions/PolyShellProtection"
+        "issues": "https://github.com/magextensions/PolyShellProtection/issues",
+        "source": "https://github.com/magextensions/PolyShellProtection"
     }
 }
